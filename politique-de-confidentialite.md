@@ -2,7 +2,7 @@
 
 *Dernière mise à jour : 17 septembre 2026*
 
-PMR Parking est une application mobile qui aide les personnes à mobilité réduite à localiser les places de stationnement réservées en France. Elle est éditée par **[msynthese]**, joignable à **msynthese@gmail.com** (ci-après « nous »).
+PMR Parking est une application mobile qui aide les personnes à mobilité réduite à localiser les places de stationnement réservées en France. Elle est éditée par **Franck Megret**, joignable à **msynthese@gmail.com** (ci-après « nous »).
 
 Cette politique explique quelles données l'application traite, pourquoi, avec qui elles sont partagées et quels sont vos droits, conformément au Règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
